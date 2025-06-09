@@ -36,7 +36,7 @@ Contributions are most welcome by forking the repository and sending a pull requ
 
 ## Credit
 
-See **[SOARE REPO](https://github.com/AntoineLandrieux/PlatformC/)**
+See **[SOARE REPO](https://github.com/AntoineLandrieux/SOARE/)**
 
 **Contributors :**
 
